@@ -1,0 +1,11 @@
+<script type="text/discourse-plugin" version="0.4">
+const { iconNode } = require("discourse-common/lib/icon-library");
+api.decorateWidget('header-icons:before', helper => {
+    return helper.h('li', [
+        helper.h('a#home-button.icon', {
+            href:'https://train.datascientest.com/dashboard',
+            title: 'Train'
+        }, iconNode('500px')),
+    ]);
+});
+</script>
