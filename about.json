@@ -2,21 +2,4 @@
   "name": "Button_Train",
   "about_url": "https://some.url.com",
   "license_url": "https://github.com/atardivon1998/Button_Train/blob/main/LICENSE",
-   "assets": {
-        "asset-variable": "assets/background.svg"
-   },
-   "color_schemes": {
-       "color scheme name": {
-          "primary": "cccccc",
-          "secondary": "111111",
-          "tertiary": "000000",
-          "quaternary": "000000",
-          "header_background": "000000",
-          "header_primary": "000000",
-          "highlight": "000000",
-          "danger": "000000",
-          "success": "000000",
-          "love": "000000"
-        }
-    }
 }
